@@ -37,3 +37,15 @@ UiVideo.propTypes = {
 
 export default UiVideo;
 
+
+// import UiVideo from '@ui/UiVideo';
+// import video from './background-star.mp4';
+
+// const App = () => {
+//     return (
+//         <UiVideo
+//             src={video}
+//             playbackRate={0.5}
+//         />
+//     )
+// }
